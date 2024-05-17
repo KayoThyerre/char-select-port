@@ -4,10 +4,27 @@
 
 # Nome do projeto
 
-"Projeto de seleção de personagens"
+"Projeto de exemplo de landing page para portifólio"
 
 # Descrição
 
-Projeto feito como atividade de treinamento para o curos DEV Quest, como uma quest final do módulo de JavaScript avançado.
+Projeto feito para testar minhas habilidades em HTML CSS JAVASCRIPT.
 
-# Desafio
+# Link do GitHUB pages
+
+> [CLIQUE AQUI]()
+
+# Modo de uso
+
+Este projeto não tem especificações de uso como outros sites que utilizamos o node version manager.
+
+# Visualize o layout do projeto
+
+> DESKTOP
+ 
+![DESKTOP](./src/images/destop.gif)
+
+
+>MOBILE
+
+![DESKTOP](./src/images/mobile.gif)
