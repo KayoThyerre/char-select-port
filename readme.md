@@ -12,7 +12,7 @@ Projeto feito para testar minhas habilidades em HTML CSS JAVASCRIPT.
 
 # Link do GitHUB pages
 
-> [CLIQUE AQUI](https://kayothyerre.github.io/char-select-port/){:target="_blank"}
+> <a href="https://kayothyerre.github.io/char-select-port/" target="_blank">CLIQUE AQUI</a>
 
 # Modo de uso
 
