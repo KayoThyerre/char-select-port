@@ -4,7 +4,7 @@
 
 # Nome do projeto
 
-"Projeto de exemplo de landing page para portifólio"
+"Projeto de exemplo de seleção de personagens"
 
 # Descrição
 
